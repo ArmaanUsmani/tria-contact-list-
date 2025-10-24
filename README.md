@@ -1,5 +1,8 @@
 # Tria - Contact List (React)
 
+Click here to view the live project on Vercel
+https://tria-contact-list-git-main-armaan-usmanis-projects.vercel.app?_vercel_share=yFLA62fSduRfexDHdRKbsLGIPH4cpvQm
+
 A small React single-page application implementing a Contact List for the Tria assignment.
 
 ## Features
